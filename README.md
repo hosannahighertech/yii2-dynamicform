@@ -1,3 +1,7 @@
+# THIS REPO IS NO LONGER MAINTAINED.
+PLEASE USE UPDATE ONE AT https://github.com/yii2-extensions/dynamicform
+
+
 # yii2-dynamicform
 
 [![Latest Version](https://img.shields.io/github/release/wbraganca/yii2-dynamicform.svg?style=flat-square)](https://github.com/wbraganca/yii2-dynamicform/releases)
